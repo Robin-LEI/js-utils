@@ -5,3 +5,4 @@ export function test() {
 
 export { isObject} from './object/isObject';
 export { flat } from './array/flat';
+export { statisticalTime } from './function/time'
